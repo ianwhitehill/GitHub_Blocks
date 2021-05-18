@@ -1,0 +1,48 @@
+img
+{
+    height: 200px;
+    background-color: white;
+}
+
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
+div
+{
+    margin: 10px;
+}
+.container
+{
+    background-color: darkgray;
+    height: 700px;
+    width: 700px;
+
+}
+
+.row1
+{
+    background-color: darkolivegreen;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.row2
+{
+    background-color: lawngreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.row3
+{
+    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
